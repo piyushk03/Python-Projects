@@ -54,3 +54,4 @@ QApplication.setApplicationName('My Cool Browser')
 window = MainWindow()
 app.exec_()
 
+#piyush
